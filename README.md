@@ -10,7 +10,7 @@ You can download the .zip file of this module or create a git submodule into you
 
 ```
 cd /path-to-thelia
-git submodule add https://github.com/thelia-modules/moreinfos.git local/modules/MoreInfos
+git submodule add https://github.com/thelia-modules/MoreInfos.git local/modules/MoreInfos
 ```
 
 Next, go to your Thelia admin panel for module activation.
